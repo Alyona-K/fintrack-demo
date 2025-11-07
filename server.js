@@ -18,7 +18,7 @@ server.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://financialtracker-ak.vercel.app",
+      "https://fintrack-demo-v.vercel.app",
     ],
     credentials: true,
   })
